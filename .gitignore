@@ -1,0 +1,7 @@
+__pycache__/
+*.py[co]
+*.log
+uploads/*
+!uploads/.gitkeep
+inbox/*
+!inbox/.gitkeep
